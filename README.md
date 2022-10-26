@@ -1,6 +1,5 @@
 # kodluyoruzilkrepo
-![Kodluyoruz](https://imgyukle.com/f/2022/10/25/n7vFIh.jpg)
-
+![Kodluyoruz](https://imgyukle.com/i/nAuCzn)
 Bu repo [Kodluyoruz](kodluyoruz.org) git egitiminde olsuturdugumuz ilk repo. Icerisinde bir adet Readme dosyasi, bir adet de index.html barindiriyor.
 
 # Installation
@@ -22,3 +21,5 @@ Pull requestler kabul edilir. Buyuk degisikler icin , lutfen once neyi degistirm
 
 Licence
 [MIT](https://github.com/Raitonn/kodluyoruzilkrepo/blob/main/LICENSE)
+
+[def]: https://imgyukle.com/f/2022/10/25/n7vFIh.jpghttps://imgyukle.com/i/nAuCzn
