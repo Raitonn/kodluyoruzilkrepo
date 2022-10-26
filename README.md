@@ -1,5 +1,5 @@
 # kodluyoruzilkrepo
-![Kodluyoruz](https://www.hizliresim.com/bf1sr0k)
+![Kodluyoruz](https://r.resimlink.com/iVf03.jpg)
 Bu repo [Kodluyoruz](kodluyoruz.org) git egitiminde olsuturdugumuz ilk repo. Icerisinde bir adet Readme dosyasi, bir adet de index.html barindiriyor.
 
 # Installation
